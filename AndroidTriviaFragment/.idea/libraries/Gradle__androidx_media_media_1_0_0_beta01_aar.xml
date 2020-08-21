@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media:media:1.0.0-beta01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/media-1.0.0-beta01.aar/a7b83cc9d93b10e2274f0738f85faddb/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/media-1.0.0-beta01.aar/a7b83cc9d93b10e2274f0738f85faddb/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/media-1.0.0-beta01.aar/a7b83cc9d93b10e2274f0738f85faddb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/media-1.0.0-beta01.aar/a7b83cc9d93b10e2274f0738f85faddb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/modules-2/files-2.1/androidx.media/media/1.0.0-beta01/68c3d614118145cc99036c834e425c30a18fb7ad/media-1.0.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

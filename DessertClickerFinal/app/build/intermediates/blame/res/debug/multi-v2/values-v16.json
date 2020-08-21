@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mahe\\AndroidStudioProjects\\DessertClickerFinal\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mahe\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\cfmwm155h49vnt3hynmlrsdst\\gradle-6.1.1\\caches\\transforms-2\\files-2.1\\06d864b78b25b4cf2a8bd76d63aba92f\\appcompat-1.0.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mahe\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\cfmwm155h49vnt3hynmlrsdst\\gradle-6.1.1\\caches\\transforms-2\\files-2.1\\88c17680569b450cde861b158a7d6bb7\\core-1.0.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

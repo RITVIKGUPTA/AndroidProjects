@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.navigation:navigation-fragment:1.0.0-alpha08@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/47637c8a73ba9291af692b4e72d2c8e9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/47637c8a73ba9291af692b4e72d2c8e9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/47637c8a73ba9291af692b4e72d2c8e9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/modules-2/files-2.1/android.arch.navigation/navigation-fragment/1.0.0-alpha08/69c74f9052a94467bde44f6271ff338a1d72ad5a/navigation-fragment-1.0.0-alpha08-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

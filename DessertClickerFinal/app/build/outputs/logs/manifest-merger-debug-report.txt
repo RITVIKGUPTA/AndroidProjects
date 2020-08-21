@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\84ecbb6be0e6a0188b528d7b2217552b\databinding-adapters-4.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\1b0314297183be308fc7bc358904cc28\databinding-runtime-4.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8c45e6c7f2a8c46bd281df1d32e2a657\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\06d864b78b25b4cf2a8bd76d63aba92f\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\2740157c01121d1de00789cdeb36b428\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:viewbinding:4.0.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\3986daa8a3bc9f1ac25d262f373e3fe4\jetified-viewbinding-4.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\f78c81d5ca7bbf758600166c99578182\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8f053856096b61e555d77d663a48ee59\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\3ffb7b879cbb76baa7c2332c01517c43\recyclerview-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\c7f07ff219a1daf6c3ebdc3feca8db4b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\746dc32d503a78930f52a3140fadf83e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\df98eed9c24c3941303ec3a656b1111e\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\4c94d9fa458f22d56cc61d5559161efd\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\e0c9067f819f0e108003e8f78cdf975f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\96a6de7af0f2cdd885051071ff178b6c\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\416c3a5986562c654470198d7500ef61\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\7a358fd87390f5205b88a2a63b829db9\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\e41bd71054ab48172e593086e8c9d7a6\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\de72e9619746ac5a5ded26631c890ed3\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\dd080e12dee0a7088118074ec0876d01\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\88c17680569b450cde861b158a7d6bb7\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\e99f584f4c21c593945a6b451aa69be1\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\4eb54b939742ab935ccfaed11f8aee6c\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\a841e1c4c283c44bb04c0a7b3fd99bb7\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\b80c15ddeb2debb7da96f5b7b57e158f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\b2432608a68201800c82f1742cd5ab2c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\1a2495d9caab3e8876eb79f23c01d16b\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8c5247b2e94192c4e8df3b7365cb1a75\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\1d840ffbe7bc110b4141adf07722d323\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\6560b43852d4d01917eaa6b9601099ec\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\c572fa9a292bbb360eeeda555b980ab9\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\32ce31d065c45f8f4cdece9555900126\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:20:5-35:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8c45e6c7f2a8c46bd281df1d32e2a657\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8c45e6c7f2a8c46bd281df1d32e2a657\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\2740157c01121d1de00789cdeb36b428\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\2740157c01121d1de00789cdeb36b428\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\88c17680569b450cde861b158a7d6bb7\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\88c17680569b450cde861b158a7d6bb7\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\4eb54b939742ab935ccfaed11f8aee6c\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\4eb54b939742ab935ccfaed11f8aee6c\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\88c17680569b450cde861b158a7d6bb7\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:25:9-61
+	android:icon
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:23:9-50
+	android:allowBackup
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:21:9-43
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:28:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\84ecbb6be0e6a0188b528d7b2217552b\databinding-adapters-4.0.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\84ecbb6be0e6a0188b528d7b2217552b\databinding-adapters-4.0.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\1b0314297183be308fc7bc358904cc28\databinding-runtime-4.0.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\1b0314297183be308fc7bc358904cc28\databinding-runtime-4.0.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8c45e6c7f2a8c46bd281df1d32e2a657\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8c45e6c7f2a8c46bd281df1d32e2a657\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\06d864b78b25b4cf2a8bd76d63aba92f\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\06d864b78b25b4cf2a8bd76d63aba92f\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\2740157c01121d1de00789cdeb36b428\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\2740157c01121d1de00789cdeb36b428\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [androidx.databinding:viewbinding:4.0.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\3986daa8a3bc9f1ac25d262f373e3fe4\jetified-viewbinding-4.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.1] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\3986daa8a3bc9f1ac25d262f373e3fe4\jetified-viewbinding-4.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\f78c81d5ca7bbf758600166c99578182\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\f78c81d5ca7bbf758600166c99578182\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8f053856096b61e555d77d663a48ee59\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8f053856096b61e555d77d663a48ee59\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\3ffb7b879cbb76baa7c2332c01517c43\recyclerview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\3ffb7b879cbb76baa7c2332c01517c43\recyclerview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\c7f07ff219a1daf6c3ebdc3feca8db4b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\c7f07ff219a1daf6c3ebdc3feca8db4b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\746dc32d503a78930f52a3140fadf83e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\746dc32d503a78930f52a3140fadf83e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\df98eed9c24c3941303ec3a656b1111e\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\df98eed9c24c3941303ec3a656b1111e\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\4c94d9fa458f22d56cc61d5559161efd\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\4c94d9fa458f22d56cc61d5559161efd\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\e0c9067f819f0e108003e8f78cdf975f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\e0c9067f819f0e108003e8f78cdf975f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\96a6de7af0f2cdd885051071ff178b6c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\96a6de7af0f2cdd885051071ff178b6c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\416c3a5986562c654470198d7500ef61\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\416c3a5986562c654470198d7500ef61\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\7a358fd87390f5205b88a2a63b829db9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\7a358fd87390f5205b88a2a63b829db9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\e41bd71054ab48172e593086e8c9d7a6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\e41bd71054ab48172e593086e8c9d7a6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\de72e9619746ac5a5ded26631c890ed3\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\de72e9619746ac5a5ded26631c890ed3\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\dd080e12dee0a7088118074ec0876d01\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\dd080e12dee0a7088118074ec0876d01\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\88c17680569b450cde861b158a7d6bb7\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\88c17680569b450cde861b158a7d6bb7\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\e99f584f4c21c593945a6b451aa69be1\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\e99f584f4c21c593945a6b451aa69be1\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\4eb54b939742ab935ccfaed11f8aee6c\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\4eb54b939742ab935ccfaed11f8aee6c\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\a841e1c4c283c44bb04c0a7b3fd99bb7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\a841e1c4c283c44bb04c0a7b3fd99bb7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\b80c15ddeb2debb7da96f5b7b57e158f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\b80c15ddeb2debb7da96f5b7b57e158f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\b2432608a68201800c82f1742cd5ab2c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\b2432608a68201800c82f1742cd5ab2c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\1a2495d9caab3e8876eb79f23c01d16b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\1a2495d9caab3e8876eb79f23c01d16b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8c5247b2e94192c4e8df3b7365cb1a75\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\8c5247b2e94192c4e8df3b7365cb1a75\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\1d840ffbe7bc110b4141adf07722d323\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\1d840ffbe7bc110b4141adf07722d323\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\6560b43852d4d01917eaa6b9601099ec\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\6560b43852d4d01917eaa6b9601099ec\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\c572fa9a292bbb360eeeda555b980ab9\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\c572fa9a292bbb360eeeda555b980ab9\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\32ce31d065c45f8f4cdece9555900126\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mahe\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1\caches\transforms-2\files-2.1\32ce31d065c45f8f4cdece9555900126\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mahe\AndroidStudioProjects\DessertClickerFinal\app\src\main\AndroidManifest.xml

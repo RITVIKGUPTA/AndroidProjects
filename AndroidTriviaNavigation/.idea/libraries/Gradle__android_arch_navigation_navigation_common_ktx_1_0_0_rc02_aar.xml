@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.navigation:navigation-common-ktx:1.0.0-rc02@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-rc02.aar/435946c447020846d744c74d2231f28a/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-rc02.aar/435946c447020846d744c74d2231f28a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-rc02.aar/435946c447020846d744c74d2231f28a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/cfmwm155h49vnt3hynmlrsdst/gradle-6.1.1/caches/modules-2/files-2.1/android.arch.navigation/navigation-common-ktx/1.0.0-rc02/a3c860407b801db016053bf30fffaeef4f1a5f1b/navigation-common-ktx-1.0.0-rc02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
