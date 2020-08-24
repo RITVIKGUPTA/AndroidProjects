@@ -18,6 +18,8 @@ import kotlinx.android.synthetic.main.fragment_second.*
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
+// This is branch comment
+
 /**
  * A simple [Fragment] subclass.
  * Use the [ThirdFragment.newInstance] factory method to
